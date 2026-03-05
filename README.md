@@ -1,14 +1,11 @@
 # SignSpeak-Real-Time-Sign-Language-to-Speech-Converter
 Real-Time Indian Sign Language Recognition and Translation System using Deep Learning
-# SignSpeak: Real-Time Sign Language to Speech Converter
-
 ## Project Overview
 SignSpeak is a real-time sign language translation system that converts hand gestures into text and speech. The system uses computer vision and deep learning techniques to recognize sign language gestures and translate them into meaningful spoken output.
 
 This project aims to help bridge the communication gap between hearing-impaired individuals and others.
 
 ---
-
 ## Features
 - Real-time hand gesture recognition
 - Sign-to-text translation
